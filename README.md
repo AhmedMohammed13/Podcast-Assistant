@@ -1,4 +1,4 @@
-# Broadcast Assistant 🎙️
+# Podcast Assistant 🎙️
 
 Broadcast Assistant is an intelligent content generation tool designed to help content creators in the broadcasting and podcasting space. It leverages state-of-the-art natural language processing models to generate episode topics, summaries, and full scripts based on specific domains and user preferences.
 
@@ -9,3 +9,4 @@ Broadcast Assistant is an intelligent content generation tool designed to help c
 - 🧾 **Episode Summarization**: Automatically create summaries or intro blurbs for your episodes.
 - 🎤 **Text-to-Speech Integration**: Use `gTTS` to turn episode scripts into realistic voice recordings.
 - 📚 **RAG (Retrieval-Augmented Generation)** support: Boosts response quality by retrieving relevant documents before generating answers.
+
